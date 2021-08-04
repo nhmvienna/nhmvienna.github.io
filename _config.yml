@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
-title: Welcome to the NHM Vienna GitHub page
+title: NHM Vienna
+logo: /assets/img/NHM_Logo_center.jpg
+description: Official Github page
+show_downloads: true
