@@ -1,6 +1,6 @@
 ### Welcome to the GitHub Page of the Natural History Museum Vienna
 
-This page provides information on computational science projects and activities at the NHM sVienna
+This page provides information on computational science projects and activities at the NHM Vienna
 
 * * *
 
