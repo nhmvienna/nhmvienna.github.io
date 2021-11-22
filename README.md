@@ -8,4 +8,6 @@ This page provides information on computational science projects and activities 
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | -   [thanados](https://github.com/nhmvienna/thanados)<br>-   [OpenAtlas](https://github.com/nhmvienna/OpenAtlas)<br>-   [OpenLidarTools](https://github.com/nhmvienna/OpenLidarTools) | -   [ABBABABA-4AF](https://github.com/nhmvienna/ABBABABA-4AF)<br>     -   [PoolSNP](https://github.com/nhmvienna/PoolSNP) |
 
-#### (2) Information on the Seminar Series "**Frontiers in Molecular Systematics**" can be found [here](MolSys.md)
+#### (2) Information on the Seminar Series "**Frontiers in Molecular Systematics**"
+
+_Upcoming Seminars_:
