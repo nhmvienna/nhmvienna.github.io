@@ -2,7 +2,7 @@
 
 This page provides information on computational science projects and activities at the NHM sVienna
 
-### Links to open source software projects that are developed and maintained at the NHM:
+## (1) Links to open source software projects that are developed and maintained at the NHM:
 
 #### Archaeology
 
@@ -15,4 +15,4 @@ This page provides information on computational science projects and activities 
 -   [ABBABABA-4AF](https://github.com/nhmvienna/ABBABABA-4AF)
 -   [PoolSNP](https://github.com/nhmvienna/PoolSNP)
 
-(1) Information on the Seminar Series "**Frontiers in Molecular Systematics**" can be found [here](MolSys.md)
+## (2) Information on the Seminar Series "**Frontiers in Molecular Systematics**" can be found [here](MolSys.md)
