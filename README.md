@@ -10,11 +10,17 @@ This page provides information on computational science projects and activities 
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | -   [thanados](https://github.com/nhmvienna/thanados)<br>-   [OpenAtlas](https://github.com/nhmvienna/OpenAtlas)<br>-   [OpenLidarTools](https://github.com/nhmvienna/OpenLidarTools) | -   [ABBABABA-4AF](https://github.com/nhmvienna/ABBABABA-4AF)<br>     -   [PoolSNP](https://github.com/nhmvienna/PoolSNP) |
 
-#### (2) Information on the Seminar Series "**Frontiers in Molecular Systematics**"
+#### (2) Information to the NHM Seminar Series "**Frontiers in Molecular Systematics**"
 
-<iframe frameborder="0" width="100%" height="600" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ-UnprPjfyp3oX0VGUBcL_erU21vTL7r0pmEKZ-c7xD1V1TYkqOqMibpP7cfoedUewYk-GpZSc0PL/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe frameborder="0" width="100%" height="400" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ-UnprPjfyp3oX0VGUBcL_erU21vTL7r0pmEKZ-c7xD1V1TYkqOqMibpP7cfoedUewYk-GpZSc0PL/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 Resources to the workshops:
 
 -   [Workshop I: Introduction to the Phyloserver](https://github.com/nhmvienna/Workshop_I_Intro_to_Phyloserver)
 -   [Workshop II: Barcoding with the MinION](https://github.com/nhmvienna/Workshop_II_MinION_barcoding)
+
+#### (3) Tutorials & Documentation (restricted access)
+
+-   [First Step Tutorials for Bioinformatics Workflows at the NHM](https://github.com/nhmvienna/FirstSteps)
+-   [Documentation of Server Installation](https://github.com/nhmvienna/PhyloserverInstallationDocs)
+-   [Q&A Bioinformatics Service](https://github.com/nhmvienna/BioinformaticsService)
