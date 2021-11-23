@@ -12,7 +12,7 @@ This page provides information on computational science projects and activities 
 
 #### (2) Information on the Seminar Series "**Frontiers in Molecular Systematics**"
 
-<iframe frameborder="0" width="100%" height="1200" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ-UnprPjfyp3oX0VGUBcL_erU21vTL7r0pmEKZ-c7xD1V1TYkqOqMibpP7cfoedUewYk-GpZSc0PL/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe frameborder="0" width="100%" height="800" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ-UnprPjfyp3oX0VGUBcL_erU21vTL7r0pmEKZ-c7xD1V1TYkqOqMibpP7cfoedUewYk-GpZSc0PL/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 Resources to the workshops:
 
