@@ -1,10 +1,12 @@
-### Welcome to the GitHub Page of the Natural History Museum Vienna
+## Welcome to the GitHub Page of the Natural History Museum Vienna
 
 This page provides information on computational science projects and activities at the NHM Vienna
 
 * * *
 
-#### (1) Links to open source software projects that are developed and maintained at the NHM:
+### (1) Open source software projects
+
+The below list links to open source software projects developed and maintained at the NHMW
 
 | Archaeology                                                                                                                                                                           | Bioinformatics                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -12,7 +14,9 @@ This page provides information on computational science projects and activities 
 
 * * *
 
-#### (2) Tutorials & Documentation (restricted access)
+### (2) Tutorials & Documentation
+
+These repositories contain information about computationial resources and workflows at the NHMW (restricted access)
 
 -   [First Step Tutorials for Bioinformatics Workflows at the NHM](https://github.com/nhmvienna/FirstSteps)
 -   [Documentation of Server Installation](https://github.com/nhmvienna/PhyloserverInstallationDocs)
@@ -20,6 +24,6 @@ This page provides information on computational science projects and activities 
 
 * * *
 
-#### (3) Information to the NHM Seminar Series "**Frontiers in Molecular Systematics**"
+### (3) NHM Seminar Series "**Frontiers in Molecular Systematics**"
 
 A description of the seminar series, a prospective schedule and resources for past workshops can be found [here](SeminarSeries.md)

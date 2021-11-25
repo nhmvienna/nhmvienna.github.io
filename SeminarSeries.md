@@ -1,4 +1,4 @@
-#### Information to the NHM Seminar Series "**Frontiers in Molecular Systematics**"
+### Information to the NHM Seminar Series "**Frontiers in Molecular Systematics**"
 
 We are proudly introducing a new meeting series which will serve as a platform to (1) foster and exchange know-how in population- and phylogenetic/genomic theory and approaches and in bioinformatics workflows in the form of **workshop sessions to be presented by local “specialists”**, (2) to introduce new and relevant molecular genetics and bioinformatics methodologies, (3) to **discuss current literature (and also citation classics)** and (4) to p**resent ongoing research within the NHM** or (5) by **invited guests**. These meetings will further allow us to meet and socialize more frequently with colleagues working in molecular systematics and to get a deeper insight into the ongoing research of colleagues at the NHM and of external guests.
 
