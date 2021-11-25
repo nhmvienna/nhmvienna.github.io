@@ -12,8 +12,6 @@ The below list links to open source software projects developed and maintained a
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | -   [thanados](https://github.com/nhmvienna/thanados)<br>-   [OpenAtlas](https://github.com/nhmvienna/OpenAtlas)<br>-   [OpenLidarTools](https://github.com/nhmvienna/OpenLidarTools) | -   [ABBABABA-4AF](https://github.com/nhmvienna/ABBABABA-4AF)<br>     -   [PoolSNP](https://github.com/nhmvienna/PoolSNP) |
 
-* * *
-
 ### (2) Tutorials & Documentation
 
 These repositories contain information about computationial resources and workflows at the NHMW (restricted access)
