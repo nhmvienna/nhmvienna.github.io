@@ -12,12 +12,7 @@ This page provides information on computational science projects and activities 
 
 #### (2) Information to the NHM Seminar Series "**Frontiers in Molecular Systematics**"
 
-<iframe frameborder="0" width="100%" height="400" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ-UnprPjfyp3oX0VGUBcL_erU21vTL7r0pmEKZ-c7xD1V1TYkqOqMibpP7cfoedUewYk-GpZSc0PL/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-
-Resources to the workshops:
-
--   [Workshop I: Introduction to the Phyloserver](https://github.com/nhmvienna/Workshop_I_Intro_to_Phyloserver)
--   [Workshop II: Barcoding with the MinION](https://github.com/nhmvienna/Workshop_II_MinION_barcoding)
+A description of the seminar series, a prospective schedule and resources for past workshops can be found [here](SeminarSeries.md) 
 
 #### (3) Tutorials & Documentation (restricted access)
 
