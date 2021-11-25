@@ -4,8 +4,7 @@ We are proudly introducing a new meeting series which will serve as a platform t
 
 _Schedule_
 
-[<iframe frameborder="0" width="100%" height="400" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ-UnprPjfyp3oX0VGUBcL_erU21vTL7r0pmEKZ-c7xD1V1TYkqOqMibpP7cfoedUewYk-GpZSc0PL/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>](https://docs.google.com/spreadsheets/d/19zfcy2Th4nzREn49-QFmQEjEkCSBWrjhndXq7DfFMeQ/edit?usp=sharing)
-
+<iframe frameborder="0" width="100%" height="400" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ-UnprPjfyp3oX0VGUBcL_erU21vTL7r0pmEKZ-c7xD1V1TYkqOqMibpP7cfoedUewYk-GpZSc0PL/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 _Resources to past workshops_
 
 -   [Workshop I: Introduction to the Phyloserver](https://github.com/nhmvienna/Workshop_I_Intro_to_Phyloserver)
