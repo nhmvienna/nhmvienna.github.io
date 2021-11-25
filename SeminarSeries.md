@@ -1,4 +1,4 @@
-### Information to the NHM Seminar Series "**Frontiers in Molecular Systematics**"
+### Information to the NHM Seminar Series "_Frontiers in Molecular Systematics_"
 
 We are proudly introducing a new meeting series which will serve as a platform to (1) foster and exchange know-how in population- and phylogenetic/genomic theory and approaches and in bioinformatics workflows in the form of **workshop sessions to be presented by local “specialists”**, (2) to introduce new and relevant molecular genetics and bioinformatics methodologies, (3) to **discuss current literature (and also citation classics)** and (4) to **present ongoing research within the NHM** or (5) by **invited guests**. These meetings will further allow us to meet and socialize more frequently with colleagues working in molecular systematics and to get a deeper insight into the ongoing research of colleagues at the NHM and of external guests.
 
@@ -10,7 +10,7 @@ _Resources to past workshops_
 -   [Workshop I: Introduction to the Phyloserver](https://github.com/nhmvienna/Workshop_I_Intro_to_Phyloserver)
 -   [Workshop II: Barcoding with the MinION](https://github.com/nhmvienna/Workshop_II_MinION_barcoding)
 
-_Frequency_  
+<br>_Frequency_  
 Meetings will take place **every second Tuesday**, starting from October 19th, 2021. **Workshops will be held from 10:00 to 12:00**, with the possibility to meet afterwards for a joint lunch. **Seminar and Journal clubs will take place between 15:00 and 16:00**. Once per month, we will be meet afterwards for an informal apéro (see below), which will allow to further discuss, to exchange ideas and to socialise.
 
 _Format_  
