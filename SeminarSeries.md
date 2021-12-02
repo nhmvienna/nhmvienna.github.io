@@ -8,7 +8,7 @@ _Schedule_
 _Resources to past workshops_
 
 -   [Workshop I: Introduction to the Phyloserver](https://github.com/nhmvienna/Workshop_I_Intro_to_Phyloserver)
--   [Workshop II: Barcoding with the MinION](https://github.com/nhmvienna/Workshop_II_MinION_barcoding)
+-   [Workshop II: Barcoding based on MinION sequencing](https://github.com/nhmvienna/Workshop_II_MinION_barcoding)
 
 <br>_Frequency_  
 Meetings will take place **every second Tuesday**, starting from October 19th, 2021. **Workshops will be held from 10:00 to 12:00**, with the possibility to meet afterwards for a joint lunch. **Seminar and Journal clubs will take place between 15:00 and 16:00**. Once per month, we will be meet afterwards for an informal apéro (see below), which will allow to further discuss, to exchange ideas and to socialise.
@@ -24,4 +24,4 @@ _Mailing list and shared calendar_
 We will **regularly inform you about upcoming events** via mail and will provide a shared calendar which will be updated at least two weeks ahead of upcoming meetings. Please share this information within your group and provide us with email addresses of additional potentially interested people.
 
 _Social event_  
-To foster social interaction among colleagues and to continue discussing the topic of each meeting, we are planning to organize an apéro once per month. Apéro’s are a wonderful Swiss and French tradition, where people **come together to drink a glass of wine/beer and have some finger food to socialize** after an event :cocktail:.
+To foster social interaction among colleagues and to continue discussing the topic of each meeting, we are planning to organize an apéro once per month. Apéro’s are a wonderful Swiss and French tradition, where people **come together to drink a glass of wine/beer and have some finger food to socialize** after an event.
