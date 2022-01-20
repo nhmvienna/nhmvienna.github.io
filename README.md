@@ -1,12 +1,12 @@
 ## Welcome to the GitHub Page of the Natural History Museum Vienna
 
-This page provides information on computational science projects and activities at the NHM Vienna
+#### This page provides information on computational science projects and activities at the NHM Vienna
 
 * * *
 
 ### (1) Open source software projects
 
-The below list links to open source software projects developed and maintained at the NHMW
+##### The below list links to open source software projects developed and maintained at the NHMW
 
 | Archaeology                                                                                                                                                                           | Bioinformatics                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -14,14 +14,13 @@ The below list links to open source software projects developed and maintained a
 
 ### (2) Tutorials & Documentation
 
-These repositories contain information about computationial resources and workflows at the NHMW (restricted access)
+##### These repositories contain information about computationial resources and workflows at the NHMW (restricted access)
 
--   [First Step Tutorials for Bioinformatics Workflows at the NHM](https://github.com/nhmvienna/FirstSteps)
+-   **[First Step Tutorials for Bioinformatics Workflows at the NHM]**(<https://github.com/nhmvienna/FirstSteps>)
 -   [Documentation of Server Installation](https://github.com/nhmvienna/PhyloserverInstallationDocs)
--   [Q&A Bioinformatics Service](https://github.com/nhmvienna/BioinformaticsService)
 
 * * *
 
 ### (3) NHM Seminar Series "**Frontiers in Molecular Systematics**"
 
-A description of the seminar series, a prospective schedule and resources for past workshops can be found [here](SeminarSeries.md)
+##### A description of the seminar series, a prospective schedule and resources for past workshops can be found [here](SeminarSeries.md)
