@@ -25,3 +25,5 @@ We will **regularly inform you about upcoming events** via mail and will provide
 
 _Social event_  
 To foster social interaction among colleagues and to continue discussing the topic of each meeting, we are planning to organize an apéro once per month. Apéro’s are a wonderful Swiss and French tradition, where people **come together to drink a glass of wine/beer and have some finger food to socialize** after an event.
+
+In case you have further questions, please contact [Martin Kapun](mailto:martin.kapun@nhm-wien.ac.at) or [Luise Kruckenhauser](mailto:luise.kruckenhauser@nhm-wien.ac.at)
