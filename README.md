@@ -14,13 +14,13 @@ The below list links to open source software projects developed and maintained a
 
 ### (2) Tutorials & Documentation
 
-These repositories contain information about computationial resources and workflows at the NHMW (restricted access)
+These repositories contain information about computational resources and workflows at the NHMW (restricted access)
 
 [x] **[First Step Tutorials for Bioinformatics Workflows at the NHM](https://github.com/nhmvienna/FirstSteps)**
 [x][documentation of server installation](<https://github.com/nhmvienna/PhyloserverInstallationDocs>)
 
 * * *
 
-### (3) NHM Seminar Series "**Frontiers in Molecular Systematics**"
+### (3) [NHM Seminar Series "_Frontiers in Molecular Systematics_"](SeminarSeries.md)
 
  A description of the seminar series, a prospective schedule and resources for past workshops can be found **[here](SeminarSeries.md)**
