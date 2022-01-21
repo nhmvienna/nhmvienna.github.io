@@ -16,8 +16,8 @@ The below list links to open source software projects developed and maintained a
 
 These repositories contain information about computational resources and workflows at the NHMW (restricted access)
 
-[x] **[First Step Tutorials for Bioinformatics Workflows at the NHM](https://github.com/nhmvienna/FirstSteps)**
-[x][documentation of server installation](<https://github.com/nhmvienna/PhyloserverInstallationDocs>)
+-   [x] **[First Step Tutorials for Bioinformatics Workflows at the NHM](https://github.com/nhmvienna/FirstSteps)**
+-   [x] [documentation of server installation](https://github.com/nhmvienna/PhyloserverInstallationDocs)
 
 * * *
 
