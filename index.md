@@ -1,6 +1,8 @@
 ---
 layout: home
 author_profile: true
+classes:
+  - landing
 ---
 
 ## Welcome to the GitHub Page of the Natural History Museum Vienna
