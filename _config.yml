@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title:
 logo: /assets/img/NHM_Logo_center.jpg
-description: Official Github page
+description: Official Github page test
 show_downloads: true
 sidebar:
   - title: "Title"
