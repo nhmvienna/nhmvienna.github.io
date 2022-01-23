@@ -14,7 +14,7 @@ This page provides information on open source computational science projects and
 
 The below list links to open source software projects developed and maintained at the NHMW
 
-#### Archaeology
+### Archaeology
 
 -   [OpenAtlas](https://github.com/nhmvienna/OpenAtlas)  
 
@@ -22,7 +22,7 @@ The below list links to open source software projects developed and maintained a
 
 -   [thanados](https://github.com/nhmvienna/thanados)  
 
-#### Bioinformatics
+### Bioinformatics
 
 -   [ABBABABA-4AF](https://github.com/nhmvienna/ABBABABA-4AF)  
 
