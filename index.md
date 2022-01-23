@@ -2,6 +2,7 @@
 layout: home
 author_profile: true
 title: Welcome to the Github Page of the Natural History Museum Vienna
+toc: true
 classes:
   - landing
 ---
