@@ -1,11 +1,10 @@
 ---
+title: Welcome to the Github Page of the Natural History Museum Vienna
 layout: single
 author_profile: true
 classes:
   - landing
 ---
-
-Welcome to the GitHub Page of the Natural History Museum Vienna
 
 This page provides information on open source computational science projects and (bio)informatics training at the NHM Vienna
 
