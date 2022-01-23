@@ -5,7 +5,7 @@ classes:
   - landing
 ---
 
-## Welcome to the GitHub Page of the Natural History Museum Vienna
+Welcome to the GitHub Page of the Natural History Museum Vienna
 
 This page provides information on open source computational science projects and (bio)informatics training at the NHM Vienna
 
@@ -23,7 +23,7 @@ The below list links to open source software projects developed and maintained a
 
 These repositories contain information about computational resources and workflows at the NHMW (restricted access)
 
--   **[First Step Tutorials for Bioinformatics Workflows at the NHM](https://github.com/nhmvienna/FirstSteps)**
+-   **[First Step Tutorials for Bioinformatics Workflows at the NHM](https://github.com/nhmvienna/FirstSteps#firststeps)**
 -   [Documentation of Server Installation](https://github.com/nhmvienna/PhyloserverInstallationDocs)
 
 * * *
