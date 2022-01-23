@@ -12,23 +12,27 @@ This page provides information on open source computational science projects and
 
 The below list links to open source software projects developed and maintained at the NHMW
 
-#### Archaeology
+**Archaeology**
 
-[OpenAtlas](https://github.com/nhmvienna/OpenAtlas)  
-[OpenLidarTools](https://github.com/nhmvienna/OpenLidarTools)  
-[thanados](https://github.com/nhmvienna/thanados)  
+-   [OpenAtlas](https://github.com/nhmvienna/OpenAtlas)  
+
+-   [OpenLidarTools](https://github.com/nhmvienna/OpenLidarTools)  
+
+-   [thanados](https://github.com/nhmvienna/thanados)  
 
 #### Bioinformatics
 
- [ABBABABA-4AF](https://github.com/nhmvienna/ABBABABA-4AF)  
- [PoolSNP](https://github.com/nhmvienna/PoolSNP)   
+-   [ABBABABA-4AF](https://github.com/nhmvienna/ABBABABA-4AF)  
+
+-   [PoolSNP](https://github.com/nhmvienna/PoolSNP)   
 
 ## Tutorials & Documentation
 
 These repositories contain information about computational resources and workflows at the NHMW (restricted access)
 
-**[First Step Tutorials for Bioinformatics Workflows at the NHM](https://github.com/nhmvienna/FirstSteps#firststeps)**
-[Documentation of Server Installation](https://github.com/nhmvienna/PhyloserverInstallationDocs)
+-   **[First Step Tutorials for Bioinformatics Workflows at the NHM](https://github.com/nhmvienna/FirstSteps#firststeps)**  
+
+-   [Documentation of Server Installation](https://github.com/nhmvienna/PhyloserverInstallationDocs)
 
 ## NHM Seminar Series "_Frontiers in Molecular Systematics_"
 
