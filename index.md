@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: Welcome to the Github Page of the Natural History Museum Vienna
+title: Welcome!
 toc: true
 toc_icon: "cog"
 classes:
