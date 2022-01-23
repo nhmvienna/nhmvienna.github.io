@@ -13,7 +13,7 @@ This page provides information on open source computational science projects and
 
 The below list links to open source software projects developed and maintained at the NHMW
 
-**Archaeology**
+#### Archaeology
 
 -   [OpenAtlas](https://github.com/nhmvienna/OpenAtlas)  
 
