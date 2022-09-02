@@ -1,10 +1,11 @@
 ---
 layout: single
 author_profile: true
+title: Die Botschaft der Gene  
 toc: true
 ---
 
-## Die Botschaft der Gene  
+***
 
 Der Code des Lebens besteht aus vier „chemischen“ Buchstaben, den Bausteinen der DNA: A, C, G und T. Ihre Reihenfolge im fadenförmigen DNA-Molekül codiert, welche Proteine und Enzyme in den Zellen des jeweiligen Lebewesens hergestellt werden. Die Reihenfolge von A, C, G und T kann man mit molekulargenetischen Methoden feststellen; man nennt sie „DNA-Sequenz“. 
 
