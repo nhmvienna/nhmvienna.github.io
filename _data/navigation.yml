@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Seminar Series"
-    url: https://nhmvienna.github.io/SeminarSeries/
-  - title: "Bioinformatics"
-    url: https://github.com/nhmvienna/FirstSteps#firststeps
+  #- title: "Seminar Series"
+  #  url: https://nhmvienna.github.io/SeminarSeries/
+  #- title: "Bioinformatics"
+  #  url: https://github.com/nhmvienna/FirstSteps#firststeps
   - title: "Phylogenie-DIY"
     url: https://nhmvienna.github.io/PhylogenieDIY/
   # - title: "About"
