@@ -5,7 +5,7 @@ author_profile: true
 toc: true
 ---
 
-# Phylogenie - DIY
+****
 
 Diese Seite enthält weiterführende Informationen zum Thema Stammbaumrekonstrution (Phylogenie) in den neuen Geschichtsvitrinen des NHMW:
 
