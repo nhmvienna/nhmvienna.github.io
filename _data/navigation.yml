@@ -4,6 +4,8 @@ main:
     url: https://nhmvienna.github.io/SeminarSeries/
   - title: "Bioinformatics"
     url: https://github.com/nhmvienna/FirstSteps#firststeps
+  - title: "Phylogenie-DIY"
+    url: https://github.com/nhmvienna/PhylogenieDIY
   # - title: "About"
   #   url: https://minimal-mistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
