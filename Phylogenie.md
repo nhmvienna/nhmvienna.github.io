@@ -9,4 +9,5 @@ Dieser Stammbaum der Chordatiere wurde 2022 erstellt, indem man das Erbgut von Z
 
 
 An den Ast-Enden am rechten Rand des Baumes zeigen 3.625 heute lebende Arten. Die Ast-Gabelungen stellen ausgestorbene und meist unbekannte Vorfahren dar. Nahe verwandte Arten sind durch wenige Verzweigungen getrennt, weit entfernt verwandte Gruppen, wie, z. B.  Fische und Säugetiere durch viele Verzweigungen. Die Baumdarstellung übersetzt die in den DNA-Sequenzen enthaltene Information in ein fassbares Bild. Dadurch wird ein Blick in die evolutionäre Vergangenheit möglich, selbst wenn es keine Fossilfunde gibt.
+
 ***
