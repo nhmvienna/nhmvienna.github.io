@@ -66,6 +66,7 @@ author:
   bio              : # "That is me..."
   location         : "Burgring 7, 1010 Wien, Austria"
   email            :
+  url              : "https://www.nhm-wien.ac.at/"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
