@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: Phylogenie DIY
+# title: Phylogenie DIY
 toc: true
 ---
 
@@ -11,5 +11,5 @@ Diese Seite enthält weiterführende Informationen zum Thema Stammbaumrekonstrut
 
 [Die Botschaft der Gene](https://nhmvienna.github.io/Alignment/)
 
-[Stammbaum der Chordatiere](https://nhmvienna.github.io/Phylogeny/)
+[Stammbaum der Chordatiere](https://nhmvienna.github.io/Phylogenie/)
 
