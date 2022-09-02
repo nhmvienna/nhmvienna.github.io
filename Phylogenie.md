@@ -1,10 +1,12 @@
 ---
 layout: single
 author_profile: true
+title:  Stammbaum der Chordatiere
 toc: true
 ---
 
-## Stammbaum der Chordatiere
+***
+
 Dieser Stammbaum der Chordatiere wurde 2022 erstellt, indem man das Erbgut von Zellorganellen verglichen hat. Dafür am besten geeignet sind die Mitochondrien, die Kraftwerke tierischer und pflanzlicher Zellen. Ihr Genom (das ist die Gesamtheit des Erbguts) besteht bei Chordatieren aus ungefähr 15.000 Bausteinen („Buchstaben“). Basierend auf Unterschieden ihrer Abfolge lassen sich die Verwandtschaftsbeziehungen von Arten rekonstruieren. Unterschiede in den DNA-Sequenzen erlauben Rückschlüsse auf die Verwandtschaftsbeziehungen zwischen Arten und ermöglichen die Rekonstruktion deren Stammesgeschichte.
 
 
