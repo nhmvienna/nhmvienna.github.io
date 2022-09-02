@@ -61,7 +61,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Natural history museum of Vienna"
+  name             : #"Natural history museum of Vienna"
   avatar           : "/assets/img/NHM_Logo_center.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # "That is me..."
   location         : "Burgring 7, 1010 Wien, Austria"
