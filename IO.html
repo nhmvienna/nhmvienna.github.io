@@ -16,7 +16,7 @@
             from browser import document
             from collections import defaultdict as d
 
-            for l in open(test_database.txt):
+            for l in open("test_database.txt"):
               document['text'].bind(l, show_text)
 
             def show_text(e):
