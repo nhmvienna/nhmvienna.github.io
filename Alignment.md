@@ -21,6 +21,6 @@ Um aus den, mittels molekulargenetischer Methoden lesbar gemachten, DNA-Sequenze
 
 * * *
 
-Bei Interesse an der zugrundeliegenden bioinformatischen Analyse, gibt es zusätzliche Information unter [PhylogenyDIY](https://github.com/nhmvienna/PhylogenyDIY/README.md).
+Bei Interesse an der zugrundeliegenden bioinformatischen Analyse, gibt es zusätzliche Information unter [PhylogenyDIY](https://github.com/nhmvienna/PhylogenyDIY/blob/main/README.md).
 
-Additional information on the underlying bioinformatic analyses can be found at [PhylogenyDIY](https://github.com/nhmvienna/PhylogenyDIY/README_en.md).
+Additional information on the underlying bioinformatic analyses can be found at [PhylogenyDIY](https://github.com/nhmvienna/PhylogenyDIY/blob/main/README_en.md).
