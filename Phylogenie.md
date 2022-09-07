@@ -19,4 +19,6 @@ Die Baumdarstellung übersetzt die in den DNA-Sequenzen enthaltene Information i
 
 * * *
 
-Bei Interesse an der zugrundeliegenden bioinformatischen Analyse, gibt es zusätzliche Information unter [PhylogenyDIY](https://github.com/nhmvienna/PhylogenyDIY).
+Bei Interesse an der zugrundeliegenden bioinformatischen Analyse, gibt es zusätzliche Information unter [PhylogenyDIY](https://github.com/nhmvienna/PhylogenyDIY/README.md).
+
+Additional information on the underlying bioinformatic analyses can be found at [PhylogenyDIY](https://github.com/nhmvienna/PhylogenyDIY/README_en.md).
