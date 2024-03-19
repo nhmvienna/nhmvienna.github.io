@@ -31,6 +31,6 @@ Aus diesem Grund wollen wir am Beispiel der Fruchtfliege untersuchen, wie das Kl
 ### Wie kann ich mithelfen?
 
 ##### Citizen Scientists
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Drosophila_melanogaster_on_apples.jpg/1200px-Drosophila_melanogaster_on_apples.jpg" align="right" width="350" hspace="10" vspace="10"/>Eine besondere Herausfordung für dieses Projekt ist es genügend Fliegen von möglichst vielen unterschiedlcihen urbanen Regionen zu sammeln.<br clear="right"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Drosophila_melanogaster_on_apples.jpg/1200px-Drosophila_melanogaster_on_apples.jpg" align="right" width="350" hspace="10" vspace="10"/>Eine besondere Herausfordung für dieses Projekt ist es genügend Fliegen von möglichst vielen unterschiedlichen urbanen Regionen zu sammeln.<br clear="right"/>
 
 
