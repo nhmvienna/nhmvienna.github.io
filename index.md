@@ -16,17 +16,11 @@ The below list links to open source software projects developed and maintained a
 
 ### Archaeology
 
--   [OpenAtlas](https://github.com/nhmvienna/OpenAtlas)  
-
--   [OpenLidarTools](https://github.com/nhmvienna/OpenLidarTools)  
-
--   [thanados](https://github.com/nhmvienna/thanados)  
-
-### Bioinformatics
-
--   [ABBABABA-4AF](https://github.com/nhmvienna/ABBABABA-4AF)  
-
--   [PoolSNP](https://github.com/nhmvienna/PoolSNP)   
+| Archaeology                                                   | Bioinformatics                                            |
+| ------------------------------------------------------------- | --------------------------------------------------------- |
+| [thanados](https://github.com/nhmvienna/thanados)             | [ABBABABA-4AF](https://github.com/nhmvienna/ABBABABA-4AF) |
+| [OpenAtlas](https://github.com/nhmvienna/OpenAtlas)           | [PoolSNP](https://github.com/nhmvienna/PoolSNP)           |
+| [OpenLidarTools](https://github.com/nhmvienna/OpenLidarTools) |                                                           |
 
 ## Tutorials & Documentation
 
