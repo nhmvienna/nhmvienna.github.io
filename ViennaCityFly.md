@@ -9,7 +9,7 @@ toc: true
 
 ***
 
- Herzlich Willkommen zu unserem Citizen Science Projekt "Vienna City Fly 2024".
+ Herzlich Willkommen zu unserem Citizen Science Projekt **Vienna City Fly 2024**.
 
 ### Worum geht es?
 
@@ -26,9 +26,11 @@ Durch genetische Analysen des Erbguts lassen sich durch den Vergleich von Fliege
 ##### Urbane Lebensräumen und genetische Vielfalt
 <img src="https://oekastatic.orf.at/mims/2021/28/20/crops/w=1280,q=60,r=1.5/1005233_bigpicture_354420_stadtklimaanalyse-karte.jpg" align="left" width="350" hspace="10" vspace="10"/>In Zeiten des globalen Klimawandels sind besonders urbane Lebensräume durch Bodenversiegelung, Luftverschmutzung und Hitzeinseln durch fehlende Grünflächen von der zunehmenden Erderwärmung und extremen Wetterereignissen betroffen. Es ist allerdings noch völlig unklar, wie sich dies auf die Bewohner dieser menschgemachten Ökosysteme auswirkt. 
 
-Aus diesem Grund wollen wir am Beispiel der Fruchtfliege untersuchen, wie das Klima in Stadgebieten die genetische Vielfalt ihrer tierischer Bewohner beeinflusst. Wir wollen herausfinden, ob, und wie Fliegen im urbanen Gebiet miteinander verwandt sind, was uns erlaubt Rückschlüsse über Wanderbewegungen in, und um möglichen Brutplätzen, wie Biotonnen, Marktgebieten oder Obstanbaugebieten zu ziehen. Ausserdem möchten wir testen ob extreme Lebensräume, wie Stadtgebiete mit einem hohen Versiegelungsgrad, einen Einfluss auf die genetische Vielfalt hat. Diese Analysen werden uns ermöglichen, besser zu verstehen wie weit-verbreitete Kulturfolger auf die rapide Veränderung der Umwelt reagieren und ob sich diese an solche Veränderungen anpassen können.
+Aus diesem Grund wollen wir am Beispiel der Fruchtfliege untersuchen, wie das Klima in Stadgebieten die genetische Vielfalt ihrer tierischer Bewohner beeinflusst. Wir wollen herausfinden, ob, und wie Fliegen im urbanen Gebiet miteinander verwandt sind, was uns erlaubt Rückschlüsse über Wanderbewegungen in, und um möglichen Brutplätzen, wie Biotonnen, Marktgebieten oder Obstanbaugebieten zu ziehen. Ausserdem möchten wir testen ob extreme Lebensräume, wie Stadtgebiete mit einem hohen Versiegelungsgrad, einen Einfluss auf die genetische Vielfalt hat. Diese Analysen werden uns ermöglichen, besser zu verstehen wie weit-verbreitete Kulturfolger auf die rapide Veränderung der Umwelt reagieren und ob sich diese an solche Veränderungen anpassen können.<br clear="left"/>
 
 ### Wie kann ich mithelfen?
 
 ##### Citizen Scientists
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Drosophila_melanogaster_on_apples.jpg/1200px-Drosophila_melanogaster_on_apples.jpg" align="right" width="350" hspace="10" vspace="10"/>Eine besondere Herausfordung für dieses Projekt ist es genügend Fliegen von möglichst vielen unterschiedlcihen urbanen Regionen zu sammeln.<br clear="right"/>
+
 
