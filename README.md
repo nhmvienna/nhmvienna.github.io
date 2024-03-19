@@ -8,9 +8,11 @@ This page provides information on open source computational science projects and
 
 The below list links to open source software projects developed and maintained at the NHMW
 
-| Archaeology                                                                                                                                                                           | Bioinformatics                                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| -   [thanados](https://github.com/nhmvienna/thanados)<br>-   [OpenAtlas](https://github.com/nhmvienna/OpenAtlas)<br>-   [OpenLidarTools](https://github.com/nhmvienna/OpenLidarTools) | -   [ABBABABA-4AF](https://github.com/nhmvienna/ABBABABA-4AF)<br>     -   [PoolSNP](https://github.com/nhmvienna/PoolSNP) |
+| Archaeology                                                   | Bioinformatics                                            |
+| ------------------------------------------------------------- | --------------------------------------------------------- |
+| [thanados](https://github.com/nhmvienna/thanados)             | [ABBABABA-4AF](https://github.com/nhmvienna/ABBABABA-4AF) |
+| [OpenAtlas](https://github.com/nhmvienna/OpenAtlas)           | [PoolSNP](https://github.com/nhmvienna/PoolSNP)           |
+| [OpenLidarTools](https://github.com/nhmvienna/OpenLidarTools) |                                                           |
 
 ### (2) Tutorials & Documentation
 
