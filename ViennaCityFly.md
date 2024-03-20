@@ -41,5 +41,3 @@ Aus diesem Grund wollen wir am Beispiel der Fruchtfliege untersuchen, wie das Kl
 Ausserdem können Mutationen in Genen die das Verhalten oder das Aussehen verändern einen Einfluss darauf haben wie die Tiere, die diese Mutation tragen mit Umweltbedingungen zurecht kommen. Ist der Effekt vorteilhaft dann kann sich die Mutation durch Selektion in einer Population ausbreiten. Wir wollen das indirekt überprüfen. Dazu testen wir für jede Mutation mit Hilfe von statistischen Methoden, ob deren Häufigkeit in unterschiedlichen Haushalten in Wien mit Umweltfaktoren wie Temperature, Luftfeuchtigkeit, Grünflächenanteil oder ähnlichem zusammenhängt. 
 
 Wir werden unsere Ergebnisse allen interessierten Citizen Scientists bei einem Workshop im Museum vorstellen. <br clear="left"/>
-
-TESTSTTSTS
