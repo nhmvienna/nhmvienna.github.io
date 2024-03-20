@@ -6,6 +6,7 @@ toc: true
 ---
 
 # Vienna City Fly 2024
+<img src="/ViennaCityFly/docs/assets/images/CityFlyLogo.jpg" width="350" hspace="10" vspace="10"/>
 
 ***
 
