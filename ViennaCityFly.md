@@ -5,7 +5,7 @@ title: " "
 toc: true
 ---
 <p align="center">
-<img src="/ViennaCityFly/docs/assets/images/CityFlyLogo.jpg" width="400" hspace="10" vspace="10"/>
+<img src="/ViennaCityFly/docs/assets/images/CityFlyLogo.jpg" width="450" hspace="10" vspace="10"/>
 </p>
 ***
 
