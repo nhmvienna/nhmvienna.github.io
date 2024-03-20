@@ -9,7 +9,7 @@ toc: true
 </p>
 ***
 
- Herzlich Willkommen zu unserem Citizen Science Projekt **Vienna City Fly 2024**.
+ Herzlich Willkommen zu unserem Citizen Science Projekt **Vienna City Fly 2024**
 
 ## Worum geht es?
 
