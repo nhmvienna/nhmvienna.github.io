@@ -9,7 +9,7 @@ toc: true
 </p>
 ***
 
- Herzlich Willkommen zu unserem Citizen Science Projekt **Vienna City Fly 2024**. Da Taufliegen der Art *Drosophila melanogaster* weltweit vorkommen, sind sie ideal, um Umweltanpassungen zu studieren. Besonders urbane Lebensräume sind vom Klimawandel betroffen, es ist aber noch nicht bekannt, wie sich dies auf Taufliegen auswirkt. Da Wien sehr vielfältige Lebensräumen hat, ist die Stadt sehr gut geeignet, um mehr über Fliegen im urbanen Lebensraum zu lernen. Mit Hilfe von Citizen Scientists wollen wir Fliegen in und um Wien sammeln und mit Hilfe moderner genetischer Methoden studieren, um mehr über die genetische Vielfalt von Tieren in urbanen Lebensräumen zu lernen. 
+ Herzlich Willkommen zu unserem Citizen Science Projekt **Vienna City Fly 2024**. Da Taufliegen der Art *Drosophila melanogaster* weltweit vorkommen, sind sie ideal geeignet, um die genetische Grundlage von Umweltanpassungen zu studieren. Besonders urbane Lebensräume sind stark vom Klimawandel betroffen. Es ist allerdings noch nicht bekannt, wie sich dies auf Taufliegen auswirkt. Die vielfältigen Lebensräumen der Stadt Wien eignen sich besonders gut für eine umfassende Analyse der genetische Vielfalt von tierischen Kulturfolgern in urbanen Lebensräumen. Nur mit Hilfe von Citizen Scientists können wir genug Taufliegen aus den verschiedenen Regionen von Wien sammeln, was uns dabei helfen wird, den Einfluss von typisch urbanen Umweltfaktoren wie Bodenversiegelung, Luftverschmutzung und Hitzeinseln auf das Leben und Überleben von Taufliegen in Stadtgebieten besser zu vestehen. 
 
 ## Worum geht es genau?
 
