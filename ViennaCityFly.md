@@ -47,4 +47,4 @@ Aus diesem Grund wollen wir am Beispiel von *Drosophila melanogaster* untersuche
 Außerdem können Mutationen in Genen, welche das Verhalten oder das Aussehen verändern, einen Einfluss darauf haben, wie die Tiere, die diese Mutation tragen, mit unterschiedlichen Umweltbedingungen zurechtkommen. Ist der Effekt vorteilhaft, dann kann sich die Mutation durch Selektion in einer Population ausbreiten. Wir wollen das indirekt überprüfen: Dazu testen wir für jede Mutation mit Hilfe von statistischen Methoden, ob deren Häufigkeit in unterschiedlichen Haushalten in Wien mit Umweltfaktoren wie Temperatur, Luftfeuchtigkeit, Grünflächenanteil oder ähnlichem zusammenhängt.
 
 Am Ende des Projekts werden wir unsere Ergebnisse allen interessierten Citizen Scientists bei einem Workshop im Museum vorstellen. Sollten sie weiter Fragen habe, freuen wir uns jederzeit über eine eMail an 
- [Martin Kapun](mailto:martin.kapun@nhm.at) oder [Sonja Steindl](mailto:sonja.steindl@nhm.at) <br clear="right"/>
+ [Martin Kapun](mailto:martin.kapun@nhm.at) oder [Sonja Steindl](mailto:sonja.steindl@nhm.at). <br clear="right"/>
