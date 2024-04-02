@@ -42,12 +42,8 @@ Aus diesem Grund wollen wir am Beispiel von *Drosophila melanogaster* untersuche
 ## Was werden wir analysieren?
 
 ### DNA Analysen
-<figure class="inline end" markdown>
-  ![image7](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NHGRI_researcher_uses_a_pipette_to_remove_DNA_from_a_micro_test_tube.jpg/1200px-NHGRI_researcher_uses_a_pipette_to_remove_DNA_from_a_micro_test_tube.jpg)
-  <figcaption>An assembled 'base' PCB</figcaption>
-</figure>
+{% include figure image_path="/assets/images/unsplash-image-10.jpg" alt="this is a placeholder image" caption="This is a figure caption." align="right" width="350" hspace="10" vspace="10" %}
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NHGRI_researcher_uses_a_pipette_to_remove_DNA_from_a_micro_test_tube.jpg/1200px-NHGRI_researcher_uses_a_pipette_to_remove_DNA_from_a_micro_test_tube.jpg" align="right" width="350" hspace="10" vspace="10"/>
 Nachdem wir die DNA aus allen gefangenen Fliegen isoliert haben, können wir mit Hilfe moderner DNA-Sequenzier-Methoden das gesamte Erbgut, welches aus 180 Millionen einzelnen Nukleinbasen - also den Bausteinen der DNA - besteht, erforschen. Wir fokussieren uns auf Unterschiede in der Abfolge der Nukleinbasen, sogenannten Mutationen oder Allelen, die uns Auskunft über den Verwandtschaftsgrad verschiedener Fliegenpopulationen geben können. Wir wollen beispielsweise testen, ob die Donau eine Barriere für Wanderbewegungen darstellt und sich Fliegen auf beiden Seiten des Stromes unterscheiden.
 
 Außerdem können Mutationen in Genen, welche das Verhalten oder das Aussehen verändern, einen Einfluss darauf haben, wie die Tiere, die diese Mutation tragen, mit unterschiedlichen Umweltbedingungen zurechtkommen. Ist der Effekt vorteilhaft, dann kann sich die Mutation durch Selektion in einer Population ausbreiten. Wir wollen das indirekt überprüfen: Dazu testen wir für jede Mutation mit Hilfe von statistischen Methoden, ob deren Häufigkeit in unterschiedlichen Haushalten in Wien mit Umweltfaktoren wie Temperatur, Luftfeuchtigkeit, Grünflächenanteil oder ähnlichem zusammenhängt.
