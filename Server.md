@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: Information on Server usage
+title: Bioinformatics
 toc: true
 ---
 ## Server statistics
