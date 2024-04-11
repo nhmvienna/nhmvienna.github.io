@@ -21,13 +21,10 @@ The below list links to open source software projects developed and maintained a
 | [OpenAtlas](https://github.com/nhmvienna/OpenAtlas)           | [PoolSNP](https://github.com/nhmvienna/PoolSNP)           |
 | [OpenLidarTools](https://github.com/nhmvienna/OpenLidarTools) |                                                           |
 
-## Tutorials & Documentation
+## Bioinformatics Tutorials & Documentation
 
-These repositories contain information about computational resources and workflows at the NHMW (restricted access)
+[Here](Server.md) you find information about computational resources and workflows at the NHMW (restricted access)
 
--   **[First Step Tutorials for Bioinformatics Workflows at the NHM](https://github.com/nhmvienna/FirstSteps#firststeps)**  
-
--   [Documentation of Server Installation](https://github.com/nhmvienna/PhyloserverInstallationDocs)
 
 ## NHM Seminar Series "_Frontiers in Molecular Systematics_"
 
