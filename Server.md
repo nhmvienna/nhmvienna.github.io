@@ -13,3 +13,7 @@ toc: true
 ## Documentation of System Installation
 
 All installation scripts and documentation can be found [here](https://github.com/nhmvienna/PhyloserverInstallationDocs).
+
+## Help Requests
+
+In case you need additional software installed or need help with bioinformatics analysis, please contact us by creating a new issue [here](https://github.com/nhmvienna/BioinformaticsService).
