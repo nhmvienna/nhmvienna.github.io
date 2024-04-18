@@ -13,7 +13,7 @@ toc: true
 
 ## Wie baue ich eine Falle?
 
-[Hier](build.md) finden Sie Infos zum Bau von Drosophila Fallen
+[Hier](build.md) finden Sie Infos zum Bau von *Drosophila* Fallen.
 
 ## Worum geht es genau?
 
