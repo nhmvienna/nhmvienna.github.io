@@ -9,8 +9,6 @@ toc: true
 </p>
 ***
 
-## Wie baue ich meine Fliegenfalle?
-
 ![7](/ViennaCityFly/docs/assets/images/7.png)
 ![8](/ViennaCityFly/docs/assets/images/8.png)
 ![9](/ViennaCityFly/docs/assets/images/9.png)
