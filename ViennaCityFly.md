@@ -9,7 +9,7 @@ toc: true
 </p>
 ***
 
- Herzlich Willkommen zu unserem Citizen Science Projekt **Vienna City Fly 2024**. Da Taufliegen der Art *Drosophila melanogaster* weltweit vorkommen, sind sie ideal geeignet, um die genetische Grundlage von Umweltanpassungen zu studieren. Besonders urbane Lebensräume sind stark vom Klimawandel betroffen. Es ist allerdings noch nicht bekannt, wie sich dies auf Taufliegen auswirkt. Die vielfältigen Lebensräumen der Stadt Wien eignen sich besonders gut für eine umfassende Analyse der genetische Vielfalt von tierischen Kulturfolgern in urbanen Lebensräumen. Nur mit Hilfe von Citizen Scientists können wir genug Taufliegen aus den verschiedenen Regionen von Wien sammeln, was uns dabei helfen wird, den Einfluss von typisch urbanen Umweltfaktoren wie Bodenversiegelung, Luftverschmutzung und Hitzeinseln auf das Leben und Überleben von Taufliegen in Stadtgebieten besser zu vestehen. 
+ Herzlich Willkommen zu unserem Citizen Science Projekt **Vienna City Fly 2024**. Da Taufliegen der Art *Drosophila melanogaster* weltweit vorkommen, sind sie ideal geeignet, um die genetische Grundlage von Umweltanpassungen zu studieren. Besonders urbane Lebensräume sind stark vom Klimawandel betroffen. Es ist allerdings noch nicht bekannt, wie sich dies auf Taufliegen auswirkt. Die vielfältigen Lebensräumen der Stadt Wien eignen sich besonders gut für eine umfassende Analyse der genetische Vielfalt von tierischen Kulturfolgern in urbanen Lebensräumen. Nur mit Hilfe von Citizen Scientists können wir genug Taufliegen aus den verschiedenen Regionen von Wien sammeln, was uns dabei helfen wird, den Einfluss von typisch urbanen Umweltfaktoren wie Bodenversiegelung, Luftverschmutzung und Hitzeinseln auf das Leben und Überleben von Taufliegen in Stadtgebieten besser zu vestehen.
 
 ## Wie baue ich eine Falle?
 
@@ -50,5 +50,9 @@ Aus diesem Grund wollen wir am Beispiel von *Drosophila melanogaster* untersuche
 
 Außerdem können Mutationen in Genen, welche das Verhalten oder das Aussehen verändern, einen Einfluss darauf haben, wie die Tiere, die diese Mutation tragen, mit unterschiedlichen Umweltbedingungen zurechtkommen. Ist der Effekt vorteilhaft, dann kann sich die Mutation durch Selektion in einer Population ausbreiten. Wir wollen das indirekt überprüfen: Dazu testen wir für jede Mutation mit Hilfe von statistischen Methoden, ob deren Häufigkeit in unterschiedlichen Haushalten in Wien mit Umweltfaktoren wie Temperatur, Luftfeuchtigkeit, Grünflächenanteil oder ähnlichem zusammenhängt.
 
-Am Ende des Projekts werden wir unsere Ergebnisse allen interessierten Citizen Scientists bei einem Workshop im Museum vorstellen. Sollten sie weiter Fragen habe, freuen wir uns jederzeit über eine eMail an 
- [Martin Kapun](mailto:martin.kapun@nhm.at) oder [Sonja Steindl](mailto:sonja.steindl@nhm.at). 
+Am Ende des Projekts werden wir unsere Ergebnisse allen interessierten Citizen Scientists bei einem Workshop im Museum vorstellen. Solltet Ihr weiter Fragen habe, freuen wir uns jederzeit über eine eMail an 
+ [ViennaCityFly](mailto:viennacityfly@nhm.at). 
+
+ Vielen Dank, 
+
+ Martin Kapun & Sonja Steindl

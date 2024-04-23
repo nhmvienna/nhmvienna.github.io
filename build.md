@@ -18,5 +18,9 @@ toc: true
 ![13](/ViennaCityFly/docs/assets/images/13.png)
 ![14](/ViennaCityFly/docs/assets/images/14.png)
 
-Solltet Ihr noch weitere Fragen haben, freuen wir uns jederzeit über eine eMail an 
- [Martin Kapun](mailto:martin.kapun@nhm.at) oder [Sonja Steindl](mailto:sonja.steindl@nhm.at). 
+Am Ende des Projekts werden wir unsere Ergebnisse allen interessierten Citizen Scientists bei einem Workshop im Museum vorstellen. Solltet Ihr weiter Fragen habe, freuen wir uns jederzeit über eine eMail an 
+ [ViennaCityFly](mailto:viennacityfly@nhm.at). 
+
+ Vielen Dank, 
+
+ Martin Kapun & Sonja Steindl
