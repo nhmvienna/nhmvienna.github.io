@@ -15,6 +15,8 @@ _Resources to past workshops_
 -   [Workshop I: Introduction to the Phyloserver](https://github.com/nhmvienna/Workshop_I_Intro_to_Phyloserver)
 -   [Workshop II: Barcoding based on MinION sequencing](https://github.com/nhmvienna/Workshop_II_MinION_barcoding)
 -   [Workshop III: The Basics of GitHub](https://github.com/nhmvienna/Workshop_III_GitHub)
+-   [Workshop IV: DeNovoAssembly](https://github.com/nhmvienna/Workshop_IV_DeNovoAssembly)
+-   [Workshop V: The Basics of *R*](https://github.com/nhmvienna/Workshop_V_R-Basics)
 
 ### _Frequency_
 
