@@ -11,10 +11,6 @@ toc: true
 
  Herzlich Willkommen zu unserem Citizen Science Projekt **Vienna City Fly 2024**. Da Taufliegen der Art *Drosophila melanogaster* weltweit vorkommen, sind sie ideal geeignet, um die genetische Grundlage von Umweltanpassungen zu studieren. Besonders urbane Lebensräume sind stark vom Klimawandel betroffen. Es ist allerdings noch nicht bekannt, wie sich dies auf Taufliegen auswirkt. Die vielfältigen Lebensräumen der Stadt Wien eignen sich besonders gut für eine umfassende Analyse der genetische Vielfalt von tierischen Kulturfolgern in urbanen Lebensräumen. Nur mit Hilfe von Citizen Scientists können wir genug Taufliegen aus den verschiedenen Regionen von Wien sammeln, was uns dabei helfen wird, den Einfluss von typisch urbanen Umweltfaktoren wie Bodenversiegelung, Luftverschmutzung und Hitzeinseln auf das Leben und Überleben von Taufliegen in Stadtgebieten besser zu vestehen.
 
-## Wie baue ich eine Falle?
-
-[Hier](build.md) findet Ihr Infos zum Bau von *Drosophila* Fallen.
-=======
 Hier findet ihr ein kurzes Video mit der Beschreibung des Projekts und wie man die Taufliegen für das Projekt fangen kann.
  [![Citizen Science Projekt | Vienna City Fly 2024](https://img.youtube.com/vi/X08aiE0nhoM/maxresdefault.jpg)](https://www.youtube.com/watch?v=X08aiE0nhoM)
 
